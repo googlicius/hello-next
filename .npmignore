@@ -1,0 +1,17 @@
+test
+.coverage
+
+CODE-OF-CONDUCT.md
+LICENSE.md
+README.md
+
+.next
+
+.build/
+.next/
+.vscode/
+node_modules/
+
+.env
+.eslintrc.js
+.gitignore
